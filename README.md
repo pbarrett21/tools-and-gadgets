@@ -27,6 +27,13 @@ A list of some of my tools and gadgets commonly used for development
 - [Keychron K2 Keyboard]
 - [Sony XM3 Headphones]
 
+#### Git Aliases (.gitconfig) ####
+- co = checkout
+-	br = branch
+-	ci = commit
+-	st = status
+-	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+
 [IntelliJ Ultimate]: <https://www.jetbrains.com/idea/>
 [Visual Studio Code]: <https://code.visualstudio.com/>
 [MacBook Air M1]: <https://support.apple.com/kb/SP825?viewlocale=en_US&locale=en_US>
